@@ -5,7 +5,7 @@
 
 - [5.3 Модель исключений Python. Try, except, else, finally. Модули](https://github.com/iammariyas/Summer_Practice/blob/main/Yandex_Practice/5.3.%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9%20Python.%20Try%2C%20except%2C%20else%2C%20finally.%20%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8.md)
 - [6.1. Модули math и numpy](https://github.com/iammariyas/Summer_Practice/blob/main/Yandex_Practice/6.1.%20%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%20math%20%D0%B8%20numpy.md)
--[6.2. Модуль pandas](https://github.com/iammariyas/Summer_Practice/blob/main/Yandex_Practice/6.2.%20%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20pandas.md)
+- [6.2. Модуль pandas](https://github.com/iammariyas/Summer_Practice/blob/main/Yandex_Practice/6.2.%20%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20pandas.md)
 
 [**School_SSU**](https://github.com/iammariyas/Summer_Practice/tree/main/SSU_Practice)
 
