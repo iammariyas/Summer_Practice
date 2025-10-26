@@ -16,7 +16,7 @@ _Встроенные модули_:
 - [Задание 1.3 Измерение времени выполнения](https://github.com/iammariyas/Summer_Practice/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.3%20%E2%80%94%20%D0%98%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.ipynb)
 
 _Модуль NumPy:_
-- [Задание 2.1 NumPy Знакомство]()
+- [Задание 2.1 NumPy Знакомство](https://github.com/iammariyas/Summer_Practice/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.1%20NumPy%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE.ipynb)
 - [Задание 2.2 NumPy Обработка матрицы](https://github.com/iammariyas/Summer_Practice/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.2%20NumPy%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%8B.ipynb)
 - [Задание 2.3 NumPy Вектор и матрица](https://github.com/iammariyas/Summer_Practice/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.3%20NumPy%20%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%20%D0%B8%20%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0.ipynb)
 - [Задание 2.5 NumPy Сравнение эффективности](https://github.com/iammariyas/Summer_Practice/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.5%20NumPy%20%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8.ipynb)
